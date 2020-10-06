@@ -1,2 +1,7 @@
 #排除所有的.class文件
 *.class
+*.python
+
+
+
+!Cdd.class
