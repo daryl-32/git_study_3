@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 hi pls do more i am other dev1
 i am dev
 i am from dev_huhu
 !!!!! 
 hahahahaha dev1 
 
-i am use sourcetree 
+i am use sourcetree
